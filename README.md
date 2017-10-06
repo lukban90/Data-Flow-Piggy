@@ -11,5 +11,5 @@ Below is how the terminal screen will look like.
 When running the piggy porgrams the data can flow from either direction. The designed structure is described as hooking each other in a of chain. 
 
 Below is a simple visual of three piggies, but not limit to, on how the program is to behave.
-
+![piggy_visual](https://user-images.githubusercontent.com/30418138/31292741-670207f4-aa89-11e7-9be9-a258bfb4b4e8.png)
 

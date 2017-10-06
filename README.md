@@ -5,6 +5,11 @@ A multidirectional data flow program that transmits and recieves messages by usi
 With ncurses the terminal windows are displayed in 8 seperate regions of the screen. Narrow slices of the full width of the screen along the bottom will be used to show the errrors, while middle bottom will shot the input and log, and the top-bottom section will show the commands. While the remainder of the screen will be sub-divided into four equal sized boxes to show the data entering and leaving the program. 
 
 Below is how the terminal screen will look like.
+![terminalview](https://user-images.githubusercontent.com/30418138/31292292-b9e90988-aa87-11e7-8cfd-64db3f11ac09.png)
 
 
-![piggy_visual](https://user-images.githubusercontent.com/30418138/31292027-b3fb523e-aa86-11e7-81fd-5806b05cee7b.png)
+When running the piggy porgrams the data can flow from either direction. The designed structure is described as hooking each other in a of chain. 
+
+Below is a simple visual of three piggies, but not limit to, on how the program is to behave.
+
+

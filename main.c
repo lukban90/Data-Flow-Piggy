@@ -196,23 +196,6 @@ int main(int argc, char *argv[])
 
     wmove(sw[4],0,10);
     update_win(4);
-    // Place cursor at top corner of window 5
-    // wmove(sw[4],0,0);
-    // wprintw(sw[4],"Press Enter to see the output in the upper left window scroll");
-    // wgetstr(sw[4],response);    // Pause so we can see the screen
-    // wmove(sw[4],0,0);
-    // wclrtoeol(sw[4]);
-    // wprintw(sw[4],"I'm sleeping a tenth of a second between each line");
-    // update_win(4);
-    //
-    // wprintw(sw[0]," %s",response);
-    // update_win(0);
-    //
-    // wmove(sw[4],0,0);
-    // wclrtoeol(sw[4]);
-    // wprintw(sw[4],"All finished. Press Enter to terminate the program.");
-    // update_win(4);
-    // wgetstr(sw[4],response);
 
   /****************************************/
   /* HEAD                                 */
